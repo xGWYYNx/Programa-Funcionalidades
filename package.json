@@ -1,0 +1,17 @@
+{
+  "name": "actividadmenupowershell",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dilan Mateo Peñaloza",
+  "license": "ISC",
+  "description": "Programa con funciones varias",
+  "type": "module",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "readline-sync": "^1.4.10"
+  }
+}
