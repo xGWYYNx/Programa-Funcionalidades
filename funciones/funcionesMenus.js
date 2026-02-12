@@ -181,7 +181,10 @@ function FuncionalidadMenuOperacionesVarias (){
                     FuncionesVarias.MedioTransporte();
                     break;
                 case 3:
-                    FuncionesVarias.MedioTransporte();
+                    FuncionesVarias.SalaDePago();
+                    break;
+                case 4:
+                    FuncionesVarias.SalaDePago2();
                     break;
 
                 default:

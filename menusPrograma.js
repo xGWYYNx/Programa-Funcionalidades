@@ -91,7 +91,9 @@ const MenuOperacionesVarias = () =>{
     console.log('             ','                                                               '.bgWhite);
     console.log('             ','  '.bgWhite,'                                                         ','  '.bgWhite,'            ',);
     console.log('             ','  '.bgWhite,'             1.Factura de Un Producto                    ','  '.bgWhite,'            ',);
-    console.log('             ','  '.bgWhite,'             2.Busqueda de Bebida                        ','  '.bgWhite,'            ',);
+    console.log('             ','  '.bgWhite,'             2.MedioDeTransporte                         ','  '.bgWhite,'            ',);
+    console.log('             ','  '.bgWhite,'             3.Sala de Pago                              ','  '.bgWhite,'            ',);
+    console.log('             ','  '.bgWhite,'             4.Sala de Pago2                              ','  '.bgWhite,'            ',);
     console.log('             ','  '.bgWhite,'             0.Regresar                                  ','  '.bgWhite,'            ',);
     console.log('             ','  '.bgWhite,'                                                         ','  '.bgWhite,'            ',);
     console.log('             ','                                                               '.bgWhite);
